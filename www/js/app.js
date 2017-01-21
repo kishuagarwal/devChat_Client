@@ -59,7 +59,11 @@ angular.module('devChat', ['ionic', 'ui.router', 'ngResource'])
       controller: 'QuestionsCtrl'
     })
     .state('chat', {
+<<<<<<< HEAD
       url: '/chat/:with',
+=======
+      url: '/chat/:chatId',
+>>>>>>> initial commit
       templateUrl: 'templates/chat.html',
       controller: 'ChatCtrl'
     })
