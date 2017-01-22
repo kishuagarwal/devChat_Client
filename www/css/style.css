@@ -1,0 +1,34 @@
+/* Empty. Add your own CSS if you like */
+.item-avatar img{
+    height: 40px;
+    width: 40px;
+}
+
+.item a {
+    text-decoration: none;
+}
+
+.msgInput {
+    width: 90%;
+}
+
+.left, .right{
+    width: 75%;
+    clear: both;
+    margin: 5px;
+}
+
+.left {
+    float:left;
+    text-align: left;
+}
+
+.right {
+    float: right;
+    text-align: right;
+}
+
+.splash {
+    background-color: blue;
+    height: 100%;
+}

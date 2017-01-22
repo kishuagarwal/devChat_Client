@@ -1,0 +1,27 @@
+<ion-nav-bar class="bar-positive">
+  <ion-nav-back-button class="button-clear">
+    <i class="ion-arrow-left-c"></i>Back
+  </ion-nav-back-button>
+  <ion-nav-title>{{with.username}}</ion-nav-title>
+</ion-nav-bar>
+
+<ion-content class="has-header">
+<ion-list>
+    <ion-item ng-show="messages.length == 0">
+        <h3 class="text-center">No messages</h3>
+    </ion-item>
+
+    <ion-item class="item-avatar" ng-repeat="message in messages" 
+        ng-class="{left: message.from == user.username, right: message.from != user.username}">
+        <img ng-src="{{user.avatar}}" ng-if="message.from == user.username">
+        <img ng-src="{[with.avatar}}" ng-if="message.from != user.username">
+        <p>{{message.content}}</p>
+    </ion-item>
+
+</ion-list>
+<ion-footer-bar class="bar-footer">
+    <input class="msgInput" type="text" placeholder="Enter message" ng-model="message">
+    <button class="button icon-left ion-paper-airplane button-positive button-small" ng-click="sendMessage(message)"></button>
+</ion-footer-bar>
+
+</ion-content>

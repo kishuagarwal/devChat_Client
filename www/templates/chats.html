@@ -1,0 +1,13 @@
+<ion-view>
+<ion-content>
+    <ion-list>
+      <ion-item ng-repeat="user in users" class="item-avatar">
+      <img ng-src="{{user.avatar}}">
+      <a ui-sref="chat({with: user.username})">
+          <h2>{{user.first_name}}</h2>
+          <h4>{{user.username}}</h4>  
+      </a>
+      </ion-item>
+    </ion-list>
+</ion-content>
+</ion-view>

@@ -1,0 +1,1669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console.log();"
+			],
+			[
+				"con",
+				"console.error();"
+			],
+			[
+				"backgrond",
+				"background-color"
+			],
+			[
+				"localStorage",
+				"localStorageSupported"
+			],
+			[
+				"ion-n",
+				"ionic-nav-bar\tionic-nav-bar"
+			],
+			[
+				"ion-nav",
+				"ionic-nav-view\tionic-nav-view"
+			],
+			[
+				"ion-",
+				"ionic-list\tionic-list"
+			],
+			[
+				"get",
+				"get_ncr\tfunction"
+			],
+			[
+				"current",
+				"current\tstatement"
+			],
+			[
+				"cure",
+				"currentD\tstatement"
+			],
+			[
+				"curren",
+				"currentD\tstatement"
+			],
+			[
+				"curre",
+				"currentD\tstatement"
+			],
+			[
+				"second",
+				"secondBestCount\tstatement"
+			],
+			[
+				"best",
+				"bestCount\tstatement"
+			],
+			[
+				"this",
+				"thisPointsExclude\tstatement"
+			],
+			[
+				"points",
+				"pointsInsideColumn\tstatement"
+			],
+			[
+				"pois",
+				"pointsInsideColumn\tstatement"
+			],
+			[
+				"heap",
+				"heappop\tfunction"
+			],
+			[
+				"mono",
+				"mongodb"
+			],
+			[
+				"cur",
+				"cur_coeff\tstatement"
+			],
+			[
+				"get_",
+				"get_ncr\tfunction"
+			],
+			[
+				"A",
+				"ANTIALIAS\tstatement"
+			],
+			[
+				"pro",
+				"progress_radians\tstatement"
+			],
+			[
+				"p",
+				"pi\tinstance"
+			],
+			[
+				"atan",
+				"atan\tfunction"
+			],
+			[
+				"event",
+				"event_mapping\tstatement"
+			],
+			[
+				"Parti",
+				"ParticipationReport\timport"
+			],
+			[
+				"conte",
+				"content_type\tparam"
+			],
+			[
+				"HTTP",
+				"HttpResponse\tclass"
+			],
+			[
+				"end",
+				"end_pagination\tstatement"
+			],
+			[
+				"start",
+				"start_pagination\tstatement"
+			],
+			[
+				"page",
+				"page_number\tparam"
+			],
+			[
+				"bac-",
+				"background-size"
+			],
+			[
+				"ST",
+				"STATIC_URL"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"Dnn",
+				"DNNClassifier\tclass"
+			],
+			[
+				"spa",
+				"spatial\tmodule"
+			],
+			[
+				"X_t",
+				"X_train\tstatement"
+			],
+			[
+				"cro",
+				"cross_validation\tmodule"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"verti",
+				"vertical-align-top"
+			],
+			[
+				"fight-",
+				"fight-club-content"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"hisoty",
+				"history-container"
+			],
+			[
+				"user-f",
+				"user-fight-info-div"
+			],
+			[
+				"inof",
+				"info-count"
+			],
+			[
+				"result",
+				"result_information"
+			],
+			[
+				"reul",
+				"result_information"
+			],
+			[
+				"resutl",
+				"result_information"
+			],
+			[
+				"result_in",
+				"result_information"
+			],
+			[
+				"result_",
+				"result_information"
+			],
+			[
+				"container",
+				"container_color"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"user",
+				"user_avatar_url"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"mess",
+				"message_type"
+			],
+			[
+				"other",
+				"otherPos\tstatement"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"hand",
+				"handleSubmit"
+			],
+			[
+				"ha",
+				"handleSubmit"
+			],
+			[
+				"han",
+				"handleAuthorChange"
+			],
+			[
+				"Hello",
+				"HelloWorld"
+			],
+			[
+				"remove",
+				"remove_comments\tfunction"
+			],
+			[
+				"clean",
+				"cleaned_line\tstatement"
+			],
+			[
+				"multine",
+				"multiline_started"
+			],
+			[
+				"MULT",
+				"MULTI_LINE_DILIMETER_END\tstatement"
+			],
+			[
+				"temp",
+				"temp2"
+			],
+			[
+				"c",
+				"copy\tfunction"
+			],
+			[
+				"local",
+				"local_d"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"right",
+				"rightmost_page\tstatement"
+			],
+			[
+				"left",
+				"leftmost_page\tstatement"
+			],
+			[
+				"last",
+				"last_page\tstatement"
+			],
+			[
+				"lsat",
+				"last_page\tstatement"
+			],
+			[
+				"r",
+				"recipient\tforstmt"
+			],
+			[
+				"rever",
+				"reverse_url_args\tparam"
+			],
+			[
+				"timer",
+				"timer_id"
+			],
+			[
+				"feeds",
+				"feeds_list\tstatement"
+			],
+			[
+				"users",
+				"userskill\tstatement"
+			],
+			[
+				"patch",
+				"patch_get_full_name\timport"
+			],
+			[
+				"reverse",
+				"reverse_url_name\tparam"
+			],
+			[
+				"ad",
+				"add_leaderboard_pagination\tfunction"
+			],
+			[
+				"hack",
+				"hackathon"
+			],
+			[
+				"cont",
+				"contest_rating\tmodule"
+			],
+			[
+				"utils",
+				"utils\tmodule"
+			],
+			[
+				"defa",
+				"default_page_count"
+			],
+			[
+				"first",
+				"first_page〔variable〕"
+			],
+			[
+				"last_",
+				"last_page〔variable〕"
+			],
+			[
+				"pagina",
+				"pagination_ctx"
+			],
+			[
+				"revers",
+				"reverse_url_args〔argument〕"
+			],
+			[
+				"add",
+				"add_leaderboard_pagination〔function〕"
+			],
+			[
+				"show",
+				"show_right_navigators"
+			],
+			[
+				"one",
+				"one_page_count〔argument〕"
+			],
+			[
+				"tota",
+				"total_count〔argument〕"
+			],
+			[
+				"currne",
+				"current_user"
+			],
+			[
+				"previous",
+				"previous_url"
+			],
+			[
+				"user_rating",
+				"user_rating_objects"
+			],
+			[
+				"user_ratings_",
+				"user_rating_objects"
+			],
+			[
+				"total",
+				"total_count"
+			],
+			[
+				"priva",
+				"private_url_hash"
+			],
+			[
+				"source",
+				"get_current_source"
+			],
+			[
+				"has",
+				"has_next_page"
+			],
+			[
+				"Ttoa",
+				"total_count"
+			],
+			[
+				"private",
+				"private-url-hash"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"to",
+				"to_user_datetime"
+			],
+			[
+				"d_t",
+				"d_tz_abbr"
+			],
+			[
+				"d_tz",
+				"d_tz_aware"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"o_",
+				"o_tz_aware"
+			],
+			[
+				"pyt",
+				"pytz"
+			],
+			[
+				"up",
+				"upcoming_events"
+			],
+			[
+				"contex",
+				"context_instance"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 1382,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 2159,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/services.js",
+			"settings":
+			{
+				"buffer_size": 3644,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 3366,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"last_filter": "python",
+		"selected_items":
+		[
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			],
+			[
+				"set cy",
+				"Set Syntax: C"
+			],
+			[
+				"c",
+				"Changelog"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sy cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syc ",
+				"Set Syntax: C"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 263.0,
+		"history":
+		[
+			"s.sort(cmp=lambda x,y: x - y)",
+			"s",
+			"s.sort()",
+			"s = [1,2,3,5]",
+			"p[::-1]",
+			"p = [1,2,3]",
+			"p = [1,2,3[",
+			"yd.split('+')",
+			"yd.split('(+)')",
+			"yd.split('(+-)')",
+			"yd.split('[+-]')",
+			"yd.split('+-')",
+			"yd",
+			"x",
+			"x,yd = spell.split('d')",
+			"spell = '2d4+10'",
+			"for i in range(4): pass",
+			"for i in range(4):",
+			"s = 'kishu'",
+			"s = 'kishu;",
+			"s.find('random3')",
+			"s.find('random')",
+			"s = \"some random string\"",
+			"a = input()",
+			"count",
+			"coutn",
+			"count[2] = 1",
+			"count[2]",
+			"count = {}",
+			"10 ** 7 + 1",
+			"10 ** 7"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kishu/devChat",
+		"/home/kishu/devChat/www",
+		"/home/kishu/devChat/www/css",
+		"/home/kishu/devChat/www/img",
+		"/home/kishu/devChat/www/lib",
+		"/home/kishu/devChat/www/lib/ionic",
+		"/home/kishu/devChat/www/lib/ionic/js",
+		"/home/kishu/devChat/www/lib/ionic/js/angular",
+		"/home/kishu/devChat/www/scss",
+		"/home/kishu/devChat/www/templates"
+	],
+	"file_history":
+	[
+		"/home/kishu/devChat/www/templates/chat.html",
+		"/home/kishu/devChat/www/templates/chats.html",
+		"/home/kishu/devChat/www/templates/login.html",
+		"/home/kishu/devChat/www/css/style.css",
+		"/home/kishu/devChat/www/templates/splash.html",
+		"/home/kishu/devChat/www/templates/signup.html",
+		"/home/kishu/devChat/www/templates/home.html",
+		"/home/kishu/devChat/www/templates/settings.html",
+		"/home/kishu/Downloads/programs/Facebook_HackerCup_2017/Round1/beach.py",
+		"/home/kishu/Downloads/programs/Facebook_HackerCup_2017/Round1/check_beach.py",
+		"/home/kishu/Downloads/programs/Facebook_HackerCup_2017/FightingTheZombie.py",
+		"/home/kishu/Downloads/programs/Facebook_HackerCup_2017/Round1/maniac.py",
+		"/home/kishu/Downloads/programs/Facebook_HackerCup_2017/Round1/zombie.py",
+		"/home/kishu/Downloads/programs/Facebook_HackerCup_2017/Round1/progressPie.py",
+		"/home/kishu/devChat_server/app/api/authenticate.js",
+		"/home/kishu/devChat_server/app/api/login.js",
+		"/home/kishu/devChat_server/app/models/user.js",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/private/add_information.html",
+		"/home/kishu/webapps/django/mycareerstack/apps/profiles/models.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/problems/snippets/topic_submission_result_details.html",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/models.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/pagelets.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/views.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/register_for_challenge_loggedin.html",
+		"/home/kishu/webapps/django/mycareerstack/apps/profiles/forms.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/profiles/hackerearth/views.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/profiles/hackerearth/utils.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/profiles/hackerearth/snippets/phone_number_form.html",
+		"/home/kishu/Downloads/programs/JAN17/reservoir.c",
+		"/home/kishu/webapps/django/mycareerstack/static_media/hackathon/event_1k.css",
+		"/home/kishu/webapps/django/mycareerstack/static/hackathon/private/add_information.css",
+		"/home/kishu/webapps/django/mycareerstack/static/profiles/hackerearth/phone_autocomplete.js",
+		"/home/kishu/Downloads/programs/Machine learning/learning_keras.py",
+		"/home/kishu/Downloads/programs/Machine learning/learning_tensorflow.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/problems/models.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/analytics/models.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/fight_club/views.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/fight_club/index.html",
+		"/home/kishu/webapps/django/mycareerstack/static_media/profiles/hackerearth/phone_autocomplete.js",
+		"/home/kishu/webapps/django/mycareerstack/apps/tastypie/fields.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/utils.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/private/pagelets/non_hiring_programming.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/non_hiring_problem.html",
+		"/home/kishu/Downloads/programs/SigTuple/sigTuple.py",
+		"/home/kishu/Downloads/programs/JAN17/chefandcircle.py",
+		"/home/kishu/Downloads/programs/SigTuple/sigTuple2.py",
+		"/home/kishu/Downloads/programs/JAN17/capmove.py",
+		"/home/kishu/Downloads/programs/JAN17/catsanddogs.py",
+		"/home/kishu/Downloads/programs/Facebook_HackerCup_2017/lazyLoading.py",
+		"/home/kishu/Downloads/programs/Facebook_HackerCup_2017/ProgressPie.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/problems/pagelets/non_hiring_problems.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/problems/pagelets/non_hiring_problems_left.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/problems/pagelets/problems_left.html",
+		"/home/kishu/webapps/django/mycareerstack/apps/fight_club/urls.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/urls.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/fight_club/models.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/analytics/migrations/0001_initial.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/problems/urls.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/add_information.html",
+		"/home/kishu/webapps/django/mycareerstack/apps/analytics/migrations/0003_auto__chg_field_practiceproblemsubmission_score__add_field_mlproblemsr.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/analytics/migrations/0002_auto__add_practiceproblemsubmission__add_eventfileevalproblemreport__a.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/fight_club/utils.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/fight_club/bot_utils.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/fight_club/ring.html",
+		"/home/kishu/webapps/django/mycareerstack/core/models.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/constants.py",
+		"/home/kishu/Downloads/programs/Machine learning/mnist.ipynb",
+		"/home/kishu/webapps/django/mycareerstack/apps/problems/utils.py",
+		"/home/kishu/Downloads/programs/high_security.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/base/base_common.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/base/base1.html",
+		"/home/kishu/webapps/django/mycareerstack/static/base/base_common.0.2.css",
+		"/home/kishu/webapps/django/mycareerstack/templates/fight_club/dashboard.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/problems/pagelets/topic_submission_result.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/problems/snippets/topic_submission_result.html",
+		"/home/kishu/webapps/django/mycareerstack/settings/production/common_settings.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/allauth/templates/socialaccount/codetable/snippets/login_list.html",
+		"/home/kishu/Downloads/Coding.png",
+		"/home/kishu/webapps/django/mycareerstack/templates/invite_friends/pagelets/right.html",
+		"/home/kishu/react/bootcamp/he-bootcamp/basic-react-kishu/src/index.js",
+		"/home/kishu/Downloads/programs/commentsOut.C",
+		"/home/kishu/Downloads/programs/comments.c",
+		"/home/kishu/Downloads/programs/simple.py",
+		"/home/kishu/Downloads/programs/input.py",
+		"/home/kishu/Downloads/programs/simple.c",
+		"/home/kishu/webapps/django/mycareerstack/core/redis_utils.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/emails/utils.py",
+		"/home/kishu/Downloads/programs/chefandgiftrs.c",
+		"/home/kishu/webapps/django/mycareerstack/core/mongo.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/feed.py",
+		"/home/kishu/Downloads/programs/base2.c",
+		"/home/kishu/Downloads/programs/base.c",
+		"/home/kishu/Downloads/programs/base3.py",
+		"/home/kishu/Downloads/programs/xquare.c",
+		"/home/kishu/webapps/django/mycareerstack/static_media/hackathon/hackathon_ide.0.1.js",
+		"/home/kishu/webapps/django/mycareerstack/apps/goofy/base.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/problems/evaluate_utils.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/profiles/caches.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/utilityapp/utility.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/feeds/pagination.html",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/contest_rating/feed.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/contest_rating/common_utils.py",
+		"/home/kishu/webapps/django/mycareerstack/static_media/hackathon/contest_rating/user_ratings.js",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/contest_rating/urls.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/contest_rating/feeds/rating_leaderboard.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/feeds/non_hiring_icpc_leaderboard.html",
+		"/home/kishu/Downloads/programs/untitled.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackerearth/views.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackerearth/challenges_modern.html",
+		"/home/kishu/webapps/django/mycareerstack/static_media/countdown_timer/challenges_countdown_timer.js",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/problems.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackathon/non_hiring_problems.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackerearth/snippets/challenge_card_modern.html",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackerearth/pagelets/challenges_modern_list.html",
+		"/home/kishu/webapps/django/mycareerstack/apps/allauth/account/ajax_views.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/allauth/account/forms.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/problems/evaluate.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackathon/ajax_views.py",
+		"/home/kishu/webapps/django/mycareerstack/static_media/hackerearth/challenges_2.styl",
+		"/home/kishu/Desktop/test.html",
+		"/home/kishu/webapps/django/mycareerstack/apps/avatar/util.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/code_editor/utils.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/he_reminders/utils.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/utilityapp/constants.py",
+		"/home/kishu/webapps/django/mycareerstack/apps/social_plugins/topcoder/crawler.py",
+		"/home/kishu/webapps/django/mycareerstack/urls/hackerearth_urls.py",
+		"/home/kishu/webapps/django/mycareerstack/templates/hackerearth/snippets/challenge_card_dummy.html",
+		"/home/kishu/webapps/django/mycareerstack/apps/hackerearth/urls.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"message",
+			" +",
+			"localhost",
+			"getCurrentUser",
+			"LocalStorage",
+			"msgInput",
+			"chats",
+			"Controller",
+			"login",
+			"Ritu",
+			"print",
+			"mod",
+			"1000000000",
+			"maximum",
+			"optimal",
+			"published",
+			"answered_by",
+			"questions",
+			"answerd_by",
+			"question",
+			"developer_pr",
+			"activate",
+			"phone_code",
+			"phonenumber",
+			"initial-country-value",
+			"initial",
+			"nice-sel",
+			"selectize-control",
+			"j",
+			"k",
+			"phone",
+			"phone_number'",
+			"phone_number",
+			"float",
+			"int",
+			"white",
+			"next",
+			"problems_left",
+			"android",
+			"a",
+			"view_android_question",
+			"cgpa_or_per",
+			"androidproblemsreport",
+			"analytics_problemanatomyuserreport",
+			"mlproblemsreport",
+			"mlproblemreport",
+			"status",
+			"class Parti",
+			"HE_EVENT_TYPE_CHOICES",
+			"event_type",
+			"class Par",
+			";\n",
+			"fight-club-bottom",
+			"club",
+			"css",
+			"WINNERS",
+			"winners",
+			">\n",
+			"avat",
+			"Opponent",
+			"\n                    ",
+			"activity",
+			"font-weight",
+			"600",
+			"extra",
+			"text",
+			"result-container",
+			"content",
+			"block",
+			"0",
+			";\n",
+			"\n                                    ",
+			"print",
+			"MULTI_LINE_DILIMETER_END",
+			"redis",
+			"):\n",
+			" \",",
+			">\n",
+			"long",
+			"prev",
+			"len",
+			"submission",
+			"printf",
+			"INFINITY",
+			"++;\n",
+			"if",
+			"ld",
+			"));",
+			"\n\t\t\t\t",
+			");\n",
+			"> ",
+			"\t\t\tprintf(\"%lf %lf\\n\", low,high);\t\t\n",
+			"low",
+			"++;\n",
+			"low",
+			"));",
+			"pow",
+			"0",
+			"local_d",
+			"gen_primes",
+			"d",
+			"m",
+			"d",
+			"10 ** 7",
+			"d",
+			"m",
+			")) ",
+			"()\n",
+			" ((",
+			"coach",
+			"500px",
+			"recommeded",
+			"fa fa-calendar",
+			":\n",
+			"pagination",
+			"current_user",
+			"recipient.profile.timezone",
+			"INDIAN_TIMEZONE",
+			"prev",
+			"col",
+			"reverse",
+			"index",
+			"non_hiring",
+			"generate_lea",
+			"ends",
+			"ends in",
+			"include",
+			"challenges"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Ctrl"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								989,
+								989
+							],
+							[
+								1252,
+								1252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 483.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/js/services.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1978,
+								1978
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 9.0,
+						"translation.y": 993.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/js/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2658,
+								2658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1449.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "devChat-client.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"chat.ht",
+				"www/templates/chat.html"
+			],
+			[
+				"chats.",
+				"www/templates/chats.html"
+			],
+			[
+				"splash",
+				"www/templates/splash.html"
+			],
+			[
+				"sign",
+				"www/templates/signup.html"
+			],
+			[
+				"login.html",
+				"www/templates/login.html"
+			],
+			[
+				"style",
+				"www/css/style.css"
+			],
+			[
+				"home",
+				"www/templates/home.html"
+			],
+			[
+				"chats",
+				"www/templates/chats.html"
+			],
+			[
+				"login",
+				"www/templates/login.html"
+			],
+			[
+				"templeschats",
+				"www/templates/chats.html"
+			],
+			[
+				"signup",
+				"www/templates/signup.html"
+			],
+			[
+				"login.thml",
+				"www/templates/login.html"
+			],
+			[
+				"profilesmodels",
+				"apps/profiles/models.py"
+			],
+			[
+				"event_1.",
+				"static_media/hackathon/event_1.styl"
+			],
+			[
+				"event_1k",
+				"static_media/hackathon/event_1k.css"
+			],
+			[
+				"profilesmodesl",
+				"apps/profiles/models.py"
+			],
+			[
+				"phoneauto",
+				"static/profiles/hackerearth/phone_autocomplete.js"
+			],
+			[
+				"addinformationcss",
+				"static/hackathon/private/add_information.css"
+			],
+			[
+				"templateshackathonprivateadd",
+				"templates/hackathon/private/add_information.html"
+			],
+			[
+				"phone_number",
+				"templates/profiles/hackerearth/snippets/phone_number_form.html"
+			],
+			[
+				"hackathonvies",
+				"apps/hackathon/views.py"
+			],
+			[
+				"profilesforms",
+				"apps/profiles/forms.py"
+			],
+			[
+				"register_for_challen",
+				"templates/hackathon/register_for_challenge_loggedin.html"
+			],
+			[
+				"non_hiring_programming",
+				"templates/hackathon/private/pagelets/non_hiring_programming.html"
+			],
+			[
+				"non_hiring_problem",
+				"templates/hackathon/non_hiring_problem.html"
+			],
+			[
+				"hackathonpagels",
+				"apps/hackathon/pagelets.py"
+			],
+			[
+				"nonhiringleft",
+				"templates/problems/pagelets/non_hiring_problems_left.html"
+			],
+			[
+				"problems_left",
+				"templates/problems/pagelets/problems_left.html"
+			],
+			[
+				"pageletsnon",
+				"templates/problems/pagelets/non_hiring_problems.html"
+			],
+			[
+				"hackathonviews",
+				"apps/hackathon/views.py"
+			],
+			[
+				"problemsmodels",
+				"apps/problems/models.py"
+			],
+			[
+				"hackathonmdoels",
+				"apps/hackathon/models.py"
+			],
+			[
+				"hackathonurls",
+				"apps/hackathon/urls.py"
+			],
+			[
+				"fightclubmode",
+				"apps/fight_club/models.py"
+			],
+			[
+				"fight_cluburls",
+				"apps/fight_club/urls.py"
+			],
+			[
+				"fight_clubview",
+				"apps/fight_club/views.py"
+			],
+			[
+				"fightclubindex",
+				"templates/fight_club/index.html"
+			],
+			[
+				"analyticsmgirations0001",
+				"apps/analytics/migrations/0001_initial.py"
+			],
+			[
+				"templateshackathonaddinfor",
+				"templates/hackathon/add_information.html"
+			],
+			[
+				"analyticsmigrations0001",
+				"apps/analytics/migrations/0001_initial.py"
+			],
+			[
+				"analyticsmodels",
+				"apps/analytics/models.py"
+			],
+			[
+				"hackathoconsta",
+				"apps/hackathon/constants.py"
+			],
+			[
+				"hackathonmodels",
+				"apps/hackathon/models.py"
+			],
+			[
+				"fightclubmodels",
+				"apps/fight_club/models.py"
+			],
+			[
+				"fightclubviews",
+				"apps/fight_club/views.py"
+			],
+			[
+				"problemsurls",
+				"apps/problems/urls.py"
+			],
+			[
+				"fighturls",
+				"apps/fight_club/urls.py"
+			],
+			[
+				"base_common.css",
+				"static/base/base_common.0.2.css"
+			],
+			[
+				"base_common.html",
+				"templates/base/base_common.html"
+			],
+			[
+				"fightclubindx",
+				"templates/fight_club/index.html"
+			],
+			[
+				"fightclubview",
+				"apps/fight_club/views.py"
+			],
+			[
+				"base1.html",
+				"templates/base/base1.html"
+			],
+			[
+				"topic_submission_r",
+				"templates/problems/snippets/topic_submission_result_details.html"
+			],
+			[
+				"topic_submission_result",
+				"templates/problems/snippets/topic_submission_result.html"
+			],
+			[
+				"production",
+				"settings/production/common_settings.py"
+			],
+			[
+				"login_list",
+				"apps/allauth/templates/socialaccount/codetable/snippets/login_list.html"
+			],
+			[
+				"fightring",
+				"templates/fight_club/ring.html"
+			],
+			[
+				"templatesfight",
+				"templates/invite_friends/pagelets/right.html"
+			],
+			[
+				"emails/utisl",
+				"apps/emails/utils.py"
+			],
+			[
+				"core/redis",
+				"core/redis_utils.py"
+			],
+			[
+				"problems/utils",
+				"apps/problems/utils.py"
+			],
+			[
+				"problems/models",
+				"apps/problems/models.py"
+			],
+			[
+				"fightclubu",
+				"apps/fight_club/utils.py"
+			],
+			[
+				"fightclub/models",
+				"apps/fight_club/models.py"
+			],
+			[
+				"hackathon/feed",
+				"apps/hackathon/feed.py"
+			],
+			[
+				"staticmediachallenges",
+				"static_media/hackerearth/challenges_2.styl"
+			],
+			[
+				"evaulate_utis",
+				"apps/problems/evaluate_utils.py"
+			],
+			[
+				"problemsutils",
+				"apps/problems/utils.py"
+			],
+			[
+				"he_reminders",
+				"apps/he_reminders/utils.py"
+			],
+			[
+				"utilityapp",
+				"apps/utilityapp/utility.py"
+			],
+			[
+				"hackathonajax",
+				"apps/hackathon/ajax_views.py"
+			],
+			[
+				"problemsuti",
+				"apps/problems/utils.py"
+			],
+			[
+				"utilityappconstant",
+				"apps/utilityapp/constants.py"
+			],
+			[
+				"he_remindersutils",
+				"apps/he_reminders/utils.py"
+			],
+			[
+				"untitled",
+				"~/Downloads/programs/untitled.py"
+			],
+			[
+				"pagination",
+				"templates/hackathon/feeds/pagination.html"
+			],
+			[
+				"static_mediahackathonuser_",
+				"static_media/hackathon/contest_rating/user_ratings.js"
+			],
+			[
+				"unti",
+				"~/Downloads/programs/untitled.py"
+			],
+			[
+				"dummy",
+				"templates/hackerearth/snippets/challenge_card_dummy.html"
+			],
+			[
+				"hackerearthurls",
+				"apps/hackerearth/urls.py"
+			],
+			[
+				"challengesmodernlist",
+				"templates/hackerearth/pagelets/challenges_modern_list.html"
+			],
+			[
+				"hackathonnonhiring",
+				"templates/hackathon/non_hiring_problems.html"
+			],
+			[
+				"hackathonproblems",
+				"templates/hackathon/problems.html"
+			],
+			[
+				"challengecardmodr",
+				"templates/hackerearth/snippets/challenge_card_modern.html"
+			],
+			[
+				"challengecardmodern",
+				"templates/hackerearth/snippets/challenge_card_modern_dummy.html"
+			],
+			[
+				"contest_ratingcomm",
+				"apps/hackathon/contest_rating/common_utils.py"
+			],
+			[
+				"challengescounter",
+				"static_media/countdown_timer/challenges_countdown_timer.js"
+			],
+			[
+				"templateshackmodern",
+				"templates/hackerearth/challenges_modern.html"
+			],
+			[
+				"leaderboard",
+				"templates/hackathon/leaderboard.html"
+			],
+			[
+				"social_plugins/githbu",
+				"apps/social_plugins/github/crawler.py"
+			],
+			[
+				"passwordreset",
+				"templates/hackerearth/form_pagelets/password_reset.html"
+			],
+			[
+				"godmone",
+				"settings/god/monkey_settings.py"
+			],
+			[
+				"godmonkey",
+				"settings/god/monkey_settings.py"
+			],
+			[
+				"settingsgodmonke",
+				"settings/god/monkey_settings.py"
+			],
+			[
+				"godmonke",
+				"settings/god/monkey_settings.py"
+			],
+			[
+				"profilescache",
+				"apps/profiles/caches.py"
+			],
+			[
+				"social_pluginstopcodercraw",
+				"apps/social_plugins/topcoder/crawler.py"
+			],
+			[
+				"profileshackerearthajax_view",
+				"apps/profiles/hackerearth/ajax_views.py"
+			],
+			[
+				"fetching.html",
+				"templates/social_plugins/topcoder/fetching.html"
+			],
+			[
+				"profilesworker",
+				"apps/profiles/worker.py"
+			],
+			[
+				"profileshackerearthajax",
+				"apps/profiles/hackerearth/ajax_views.py"
+			],
+			[
+				"profileshackeraajax",
+				"apps/profiles/hackerearth/ajax_views.py"
+			],
+			[
+				"crawler",
+				"apps/social_plugins/topcoder/crawler.py"
+			],
+			[
+				"allauthaccountajax",
+				"apps/allauth/account/ajax_views.py"
+			],
+			[
+				"social_pluginstopcodercrw",
+				"apps/social_plugins/topcoder/crawler.py"
+			],
+			[
+				"profilescaches",
+				"apps/profiles/caches.py"
+			],
+			[
+				"hackathoncaches",
+				"apps/hackathon/caches.py"
+			],
+			[
+				"hackathonutils",
+				"apps/hackathon/utils.py"
+			],
+			[
+				"contest_ratingpage",
+				"apps/hackathon/contest_rating/pagelets.py"
+			],
+			[
+				"contest_ratingviews",
+				"apps/hackathon/contest_rating/views.py"
+			],
+			[
+				"hackathoncontest_ratingurls",
+				"apps/hackathon/contest_rating/urls.py"
+			],
+			[
+				"localhacker",
+				"settings/local/hackerearth_settings.py"
+			],
+			[
+				"monkey_settings",
+				"settings/god/monkey_settings.py"
+			],
+			[
+				"utlityapputlit",
+				"apps/utilityapp/utility.py"
+			],
+			[
+				"hackathonide",
+				"static_media/hackathon/hackathon_ide.0.1.js"
+			],
+			[
+				"problemutils",
+				"apps/problems/utils.py"
+			],
+			[
+				"evau",
+				"apps/problems/evaluate_utils.py"
+			],
+			[
+				"hackathon_ide",
+				"static/hackathon/hackathon_ide.0.1.js"
+			],
+			[
+				"contestratingurls",
+				"apps/hackathon/contest_rating/urls.py"
+			],
+			[
+				"hackathonajax_view",
+				"apps/hackathon/ajax_views.py"
+			],
+			[
+				"probfeed",
+				"apps/problems/feed.py"
+			],
+			[
+				"hackathonfeedshtml",
+				"templates/hackathon/feeds/non_hiring_icpc_leaderboard.html"
+			],
+			[
+				"coreutils",
+				"core/utils.py"
+			],
+			[
+				"problemscache",
+				"apps/problems/caches.py"
+			],
+			[
+				"problemspagel",
+				"apps/problems/pagelets.py"
+			],
+			[
+				"code_editortui",
+				"apps/code_editor/utils.py"
+			],
+			[
+				"localcommon",
+				"settings/local/common_settings.py"
+			],
+			[
+				"corerouters",
+				"core/routers.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 836.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
