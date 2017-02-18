@@ -59,7 +59,7 @@ angular.module('devChat', ['ionic', 'ui.router', 'ngResource'])
       controller: 'QuestionsCtrl'
     })
     .state('chat', {
-      url: '/chat/:with',
+      url: '/chat/:chatId',
       templateUrl: 'templates/chat.html',
       controller: 'ChatCtrl'
     })

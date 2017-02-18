@@ -13,7 +13,7 @@ angular.module('devChat')
         }, function(data) {
             console.log(data);
             if (data.status == 200) {
-                CurrentUser.setCurrentUser($scope.username);
+                CurrentUser.setCurrentUser(data.user);
                 $state.go('home.chats');
             } else {
                 console.error("Not authorized");
@@ -43,10 +43,18 @@ angular.module('devChat')
 .controller('HomeCtrl', function($scope) {
     console.log('Inside the main controller');
 })
-.controller('ChatsCtrl', ['$scope', 'devChatAPI', function($scope, devChatAPI) {
-    console.log('Inside the chats ctrl');
-    $scope.users = devChatAPI.getAllUsers().query(function(data) {
-        console.log(data);
+.controller('ChatsCtrl', ['$scope', 'devChatAPI','CurrentUser', function($scope, devChatAPI, CurrentUser) {
+    $scope.chats = devChatAPI.getAllChats().query(function(chats) {
+        console.log(chats);
+        for (var i = 0; i < chats.length; i++) {
+            chat = chats[i];
+            console.log(chat);
+            for (var j = 0; j < chat.participants.length; j++) {    
+                var participant = chat.participants[j];
+                if (participant._id != CurrentUser.user._id)
+                    chat.with = participant;
+            }
+        }
     }, function(error) {
         console.error(error);
     });

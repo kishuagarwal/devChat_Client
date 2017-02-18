@@ -1,15 +1,10 @@
 <ion-view>
 <ion-content>
     <ion-list>
-      <ion-item ng-repeat="user in users" class="item-avatar">
-      <img ng-src="{{user.avatar}}">
-      <a ui-sref="chat({with: user.username})">
-          <h2>{{user.first_name}}</h2>
-          <h4>{{user.username}}</h4>  
-      <ion-item ng-repeat="chat in chats" class="item-avatar">
-      <img ng-src="{{chat.avatar}}">
-      <a ui-sref="chat({chatId: {{chat.id}}})">
-          <h2>{{chat.name}}</h2>  
+    <ion-item ng-repeat="chat in chats" class="item-avatar">
+      <img ng-src="{{chat.with.avatar}}">
+      <a ui-sref="chat({chatId: {{chat._id}}})">
+          <h2>{{chat.with.first_name}}</h2>  
       </a>
       </ion-item>
     </ion-list>

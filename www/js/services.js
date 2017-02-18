@@ -1,5 +1,5 @@
 angular.module('devChat')
-.constant('IP_ADDRESS', '192.168.0.102')
+.constant('IP_ADDRESS', 'localhost')
 .service('ChatService', function(IP_ADDRESS, CurrentUser){
     this.socket = new WebSocket('ws://' + IP_ADDRESS + ':3000');
     this.messageQueue = [];
@@ -90,18 +90,21 @@ angular.module('devChat')
     devChatAPI.sendMessage = function(message) {
         return $resource('http://' + IP_ADDRESS + ':8080/messages');
     };
-    devChatAPI.getMessages = function(from, sendTo) {
-        return $resource('http://' + IP_ADDRESS + ':8080/messages/'+from+'/'+sendTo);
+    devChatAPI.getMessages = function() {
+        return $resource('http://' + IP_ADDRESS + ':8080/messages/:chatId');
+    };
+    devChatAPI.getAllChats = function() {
+        return $resource('http://' + IP_ADDRESS + ':8080/chats');
     };
     return devChatAPI;
 })
 .factory('CurrentUser', function() {
     var currentUser = {};
-    currentUser.setCurrentUser = function(username) {
-        this.username  = username;
+    currentUser.setCurrentUser = function(user) {
+        this.user  = user;
     };
     currentUser.getCurrentUser = function() {
-        return this.username;
+        return this.user;
     };
     return currentUser;
 });
